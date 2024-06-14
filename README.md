@@ -5,9 +5,7 @@ A collection of projects, exercises, and notes from my journey learning React.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Projects](#projects)
-- [Exercises](#exercises)
-- [Notes and Resources](#notes-and-resources)
+- [Folder Structure](#folder-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
